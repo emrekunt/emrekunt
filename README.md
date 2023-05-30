@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Emre. I'm working as a software developer about 13 years. 
+I'm Emre. I'm working as a software developer since 2009. 
 
 - 🔭 I’m currently working on AR/VR projects for iOS apps. 
 - 🌱 I’m currently learning CoreML / Model training.
